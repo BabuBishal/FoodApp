@@ -1,0 +1,137 @@
+[
+    {
+        "categoryName": "Noodles",
+        "name": "Udon",
+        "img": "https://cdn.pixabay.com/photo/2016/05/13/00/41/udon-noodles-1389048_640.jpg",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Delicious udon noodles"
+    },
+    {
+        "categoryName": "Noodles",
+        "name": "Chow Mein",
+        "img": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": [
+            {
+                "half": "100",
+                "full": "200"
+            }
+        ],
+        "description": "Delicious chowmein noodles"
+    },
+    {
+        "categoryName": "Noodles",
+        "name": "Ramen",
+        "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UmFtZW58ZW58MHx8MHx8fDA%3D",
+        "options": [
+            {
+                "half": "100",
+                "full": "200"
+            }
+        ],
+        "description": "Delicious ramen noodles"
+    },
+    {
+        "categoryName": "Biryani/Rice",
+        "name": "Pork Rice",
+        "img": "https://cdn.pixabay.com/photo/2016/11/18/16/10/food-1835566_640.jpg",
+        "options": [
+            {
+                "half": "120",
+                "full": "250"
+            }
+        ],
+        "description": "Delicious pork rice"
+    },
+    {
+        "categoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://images.pexels.com/photos/7758253/pexels-photo-7758253.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": [
+            {
+                "half": "110",
+                "full": "220"
+            }
+        ],
+        "description": "Delicious chicken fried rice"
+    },
+    {
+        "categoryName": "Biryani/Rice",
+        "name": "Chicken Biryani",
+        "img": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": [
+            {
+                "half": "120",
+                "full": "250"
+            }
+        ],
+        "description": "Delicious chicken biryani"
+    },
+    {
+        "categoryName": "Biryani/Rice",
+        "name": "Chicken Biryani Large",
+        "img": "https://images.pexels.com/photos/7426867/pexels-photo-7426867.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": [
+            {
+                "half": "150",
+                "full": "300"
+            }
+        ],
+        "description": "Delicious chicken biryani"
+    },
+    {
+        "categoryName": "Biryani/Rice",
+        "name": "Egg Fried Rice",
+        "img": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": [
+            {
+                "half": "90",
+                "full": "180"
+            }
+        ],
+        "description": "Delicious Egg fried rice"
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "Pepperoni Pizza",
+        "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVwcGVyb25pJTIwcGl6emF8ZW58MHx8MHx8fDA%3D",
+        "options": [
+            {
+                "small": "100",
+                "medium": "180",
+                "large": "320"
+            }
+        ],
+        "description": "Delicious Pepperoni Pizza"
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "Mushroom Pizza",
+        "img": "https://images.unsplash.com/photo-1679408474337-967cae34a1d0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fE11c2hyb29tJTIwcGl6emF8ZW58MHx8MHx8fDA%3D",
+        "options": [
+            {
+                "small": "90",
+                "medium": "180",
+                "large": "300"
+            }
+        ],
+        "description": "Delicious Pizza"
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "French Pizza",
+        "img": "",
+        "options": [
+            {
+                "small": "100",
+                "medium": "150",
+                "large": "200"
+            }
+        ],
+        "description": "Delicious French Pizza"
+    }
+]
